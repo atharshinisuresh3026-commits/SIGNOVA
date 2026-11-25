@@ -1,0 +1,6 @@
+# SIGNOVA - tested design targets: Python 3.9 - 3.12 on Windows 10/11
+streamlit>=1.40
+opencv-contrib-python>=4.8,<4.11
+mediapipe>=0.10.14,<0.10.22
+numpy>=1.24,<2
+pyttsx3>=2.90
